@@ -1,2 +1,2 @@
 # Automatic-Vacuum-Cleaner
-abc
+Introducing an intelligent and cost-friendly Automatic Vacuum Cleaner equipped with obstacle avoidance capabilities using IR sensors. This innovative solution eliminates the need for microcontrollers like Arduino, making it accessible to a wider audience. By utilizing simple yet effective ICs readily available in the market at affordable prices, the circuitry of this cleaner delivers reliable obstacle detection and navigation. Experience the convenience and affordability of this automated cleaning solution, designed to make your life easier without breaking the bank. Say goodbye to manual vacuuming and hello to a smarter, budget-friendly cleaning experience.
